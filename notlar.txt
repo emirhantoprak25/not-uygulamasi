@@ -11,3 +11,4 @@ Hafta 2 - Git Komutları
 3. git add    : Değişiklikleri bir sonraki commit için staging area'ya alır.
 4. git commit : Staging area'daki değişiklikleri kalıcı bir sürüm olarak kaydeder.
 5. git log    : Commit geçmişini listeler.
+6. git push   : Yerel commitleri uzak repoya (GitHub) gönderir.
