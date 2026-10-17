@@ -1,0 +1,6 @@
+Hafta 1 - Linux Komutları
+1. pwd   : Bulunulan dizinin tam yolunu gösterir.
+2. ls    : Dizindeki dosya ve klasörleri listeler.
+3. cd    : Başka bir dizine geçiş yapar.
+4. mkdir : Yeni bir klasör oluşturur.
+5. touch : Boş bir dosya oluşturur veya dosyanın zaman damgasını günceller.
