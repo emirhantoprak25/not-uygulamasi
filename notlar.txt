@@ -4,3 +4,10 @@ Hafta 1 - Linux Komutları
 3. cd    : Başka bir dizine geçiş yapar.
 4. mkdir : Yeni bir klasör oluşturur.
 5. touch : Boş bir dosya oluşturur veya dosyanın zaman damgasını günceller.
+
+Hafta 2 - Git Komutları
+1. git init   : Bulunulan klasörü yeni bir Git reposuna dönüştürür.
+2. git status : Çalışma dizini ve staging area'nın durumunu gösterir.
+3. git add    : Değişiklikleri bir sonraki commit için staging area'ya alır.
+4. git commit : Staging area'daki değişiklikleri kalıcı bir sürüm olarak kaydeder.
+5. git log    : Commit geçmişini listeler.
